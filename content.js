@@ -1,3 +1,5 @@
+// /!\ this should be copied in content.js file
+
 // YouYube Elements
 const ytElements = [
   // main feed
